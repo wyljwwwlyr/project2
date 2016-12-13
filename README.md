@@ -1,6 +1,6 @@
-Just run the program with two file which contains the number that you want to take into calculation.
-With this code.
-You can get the result of adding two polynomials.
+Just run the program with two file which contains the number that you want to take into calculation
+With this code;
+You can get the result of adding two polynomials(such as text1, text2);
 For example:
 1x^4+2x^3+3x^2+4x+5
 and
